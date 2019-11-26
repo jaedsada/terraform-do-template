@@ -1,3 +1,4 @@
 .terraform
 *.tfvars
 *.json
+/ui/node_modules/
